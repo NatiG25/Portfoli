@@ -8,10 +8,6 @@ background-image: url(image/header-illsutration-mobile.svg);
 background-repeat: no-repeat;
 }
 
-nav {
-  display: flexbox; //
-}
-
 .headline-title {
   width: 327px;
   height: 192px;
