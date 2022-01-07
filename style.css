@@ -1,0 +1,11 @@
+section{
+    display: flexbox;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 48px;
+    text-align: center;
+}
+
+nav{
+    display: flexbox;
+}
