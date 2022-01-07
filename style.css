@@ -1,4 +1,4 @@
-section{
+section {
     display: flexbox;
     font-family: Inter;
     font-style: normal;
@@ -6,6 +6,17 @@ section{
     text-align: center;
 }
 
-nav{
+nav {
     display: flexbox;
+}
+
+i {
+    padding: 10px 10px;
+    background: none;
+}
+
+i:hover {
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
 }
