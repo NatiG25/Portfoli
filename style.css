@@ -1,11 +1,11 @@
 .headline {
-display: flex;
-font-family: inherit;
-font-style: normal;
-font-size: 48px;
-text-align: center;
-background-image: url(image/header-illsutration-mobile.svg);
-background-repeat: no-repeat;
+  display: flex;
+  font-family: inherit;
+  font-style: normal;
+  font-size: 48px;
+  text-align: center;
+  background-image: url(image/header-illsutration-mobile.svg);
+  background-repeat: no-repeat;
 }
 
 .headline-title {
