@@ -1,6 +1,6 @@
 .headline {
-display: flexbox;
-font-family: Inter;
+display: flex;
+font-family: inherit;
 font-style: normal;
 font-size: 48px;
 text-align: center;
@@ -9,7 +9,7 @@ background-repeat: no-repeat;
 }
 
 nav {
-  display: flexbox;
+  display: flexbox; //
 }
 
 .headline-title {
@@ -17,14 +17,14 @@ nav {
   height: 192px;
   left: 24px;
   top: 64px;
-  font-family: Inter;
+  font-family: inherit;
   font-style: normal;
   font-weight: bold;
   font-size: 40px;
   line-height: 52px;
   text-align: center;
-  color: #172B4D;
-  margin: 58px 0px;
+  color: #172b4d;
+  margin: 58px 0;
 }
 
 .para {
@@ -32,28 +32,28 @@ nav {
   height: 164px;
   left: 24px;
   top: 314px;
-  font-family: Inter;
+  font-family: inherit;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-  color: #172B4D;
-  margin: 58px 0px;
+  color: #172b4d;
+  margin: 58px 0;
 }
 
 .headline-2 {
-  color: #64B57F;
+  color: #64b57f;
 }
 
-.fab, 
+.fab,
 .fas,
-.far  {
+.far {
   left: 27.31%;
   right: 67.36%;
   top: 73.83%;
   bottom: 23.42%;
-  color: #505F79;
+  color: #505f79;
   font-size: 20px;
   margin-right: 20px;
 }
@@ -64,7 +64,6 @@ nav {
   align-items: baseline;
   width: 100%;
   top: 0;
-
 }
 
 .hamburger-menu {
@@ -75,11 +74,11 @@ nav {
 .logo {
   margin-top: 10px;
   margin-left: 24px;
-  font-family: Inter;
+  font-family: inherit;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
   line-height: 28px;
-  color: #28352F;
+  color: #28352f;
   text-align: center;
 }
